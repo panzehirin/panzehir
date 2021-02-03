@@ -1,0 +1,2 @@
+# panzehir
+Heckır olmaya çalışıyorum 
